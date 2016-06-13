@@ -1,0 +1,9 @@
+/* Colors */
+#leftcolumn h3{color:#000000;}
+#leftcolumn a{color:#000000;}
+#leftcolumn a:hover{color:#333333;}
+#leftcolumn div.module_menu a{color:#000000;}
+#leftcolumn div.module_menu a:hover{color:#333333;}
+#leftcolumn div.module_menu ul ul li a:hover{color:#333333;}
+#leftcolumn div.module_menu li li.active a:hover{color:#333333;}
+#leftcolumn div.module_tail{height:0px; width: 180px;}

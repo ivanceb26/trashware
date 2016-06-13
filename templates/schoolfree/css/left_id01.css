@@ -1,0 +1,10 @@
+/* [left] */
+#leftcolumn div.module_hat{background-image: url(../images/mod_id01_left_top.jpg); background-repeat:no-repeat;}
+#leftcolumn div.module_jacket{background-image: url(../images/mod_id01_left_middle.jpg); background-repeat:repeat-y;}
+#leftcolumn div.module_tail{background-image: url(../images/mod_id01_left_down.jpg); background-repeat:no-repeat;}
+
+/* Colors */
+#leftcolumn h3{color:#000000;}
+#leftcolumn a, #leftcolumn div.module_menu a{color:#00000;}
+#leftcolumn a:hover, #leftcolumn div.module_menu a:hover, #leftcolumn div.module_menu ul ul li a:hover, #leftcolumn div.module_menu li li.active a:hover {color:#333333;}
+#leftcolumn div.module_tail{height: 30px; width: 180px; margin-bottom: 0px;}

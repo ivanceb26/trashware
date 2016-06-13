@@ -1,0 +1,21 @@
+/* [LEFT COMMON] */
+#leftcolumn div.module_hat h3, #user1column div.module_hat h3{color:#000}
+#leftcolumn, #leftcolumn a, #leftcolumn div.module_menu a, #user1column a, #user1column div.module_menu a{color:#000}
+#leftcolumn, #leftcolumn div.module_menu, #user2column, #user2column div.module_menu{color:#000}
+#leftcolumn a:hover, #leftcolumn div.module_menu a:hover, #leftcolumn div.module_menu ul ul li a:hover, #leftcolumn div.module_menu li li.active a:hover, #user1column a:hover, #user1column div.module_menu a:hover, #user1column div.module_menu ul ul li a:hover, #user1column div.module_menu li li.active a:hover{color:#333}
+#leftcolumn div.module_tail, #user2column div.module_tail{height:0px; margin-bottom:5px}
+
+/* [LEFT WIDTH 240px] */
+#leftcolumn div.module_tail, #leftcolumn, #leftcolumn div.module_hat{width:240px}
+#leftcolumn div.module_content{width:215px}
+
+/* [USER1 WIDTH] */
+#user1column div.module_hat h3{color:#000}
+#user1column div.module_hat{width:200px}
+#user1column div.module_tail{width:200px}
+#user1column div.module_content{width:160px}
+
+/* [USER1 GRAPHICS] */
+#user1column div.module_hat{background-image:url(../images/mod_left_top.jpg)}
+#user1column div.module_jacket{background-image:url(../images/mod_left_middle.jpg)}
+#user1column div.module_tail{background-image:url(../images/mod_left_down.jpg)}

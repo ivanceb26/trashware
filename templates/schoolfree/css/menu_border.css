@@ -1,0 +1,8 @@
+/* [Menus] */
+#leftcolumn div.module_menu a, #rightcolumn div.module_menu a, #user1column div.module_menu a, #user2column div.module_menu a{ border-color:#FFFFFF; background-image:url(../images/sectiontableentry1.jpg); background-repeat:repeat-x; border-left-style: solid; border-width: 4px; text-decoration:underline; padding-left: 5px; margin-top:3px; margin-bottom:3px; height:25px; line-height:25px;}
+#leftcolumn div.module_menu a:hover, #rightcolumn div.module_menu a:hover, #user1column div.module_menu a:hover, #user2column div.module_menu a:hover{border-color:#6F8B6D; border-width: 4px; background-image:url(../images/sectiontableentry2.jpg); background-repeat:repeat-x;}
+
+/* [SubMenus] */
+#leftcolumn div.module_menu ul ul li{}
+#leftcolumn div.module_menu ul ul li a{margin-left:5px; font-size: 11px;  margin-top:3px;}
+#leftcolumn div.module_menu ul ul li a:hover{margin-left:5px;}

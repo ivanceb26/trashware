@@ -1,0 +1,8 @@
+/* [Menus] */
+#leftcolumn div.module_menu a, #rightcolumn div.module_menu a, #user1column div.module_menu a, #user2column div.module_menu a{text-decoration:underline; padding-left: 5px; margin-top:3px; margin-bottom:3px;}
+#leftcolumn div.module_menu a:hover, #rightcolumn div.module_menu a:hover, #user1column div.module_menu a:hover, #user2column div.module_menu a:hover{}
+
+/* [SubMenus] */
+#leftcolumn div.module_menu ul ul li{}
+#leftcolumn div.module_menu ul ul li a{margin-left:5px; font-size: 11px;  margin-top:3px;}
+#leftcolumn div.module_menu ul ul li a:hover{margin-left:5px;}

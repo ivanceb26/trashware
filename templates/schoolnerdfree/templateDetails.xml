@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.7//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<install version="1.7" type="template" client="site">
+	<name>SchoolNerdFree</name>
+	<creationDate>8th November 2011</creationDate>
+	<author>Alexander Hilliger</author>
+	<authorEmail>alexander@hilliger-media.de</authorEmail>
+	<authorUrl>http://www.hilliger-media.de</authorUrl>
+	<copyright>Copyright (C) 2005 - 2011 Hilliger Media, All rights reserved.</copyright>
+	<license>GNU General Public License</license>
+	<version>1.0.0</version>
+	<description>
+	<![CDATA[
+	
+<style type="text/css">
+#Title {
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	font-variant: small-caps;
+	color: #002240;
+}
+
+.logo_description {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #666;
+}
+
+.default {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #666;
+}
+
+.thankyou {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #652525;
+}
+
+</style>
+<p><span id="Title">School Nerd Free</span><br>
+<span class="default">This Template is  for PERSONAL  use only!</span></p>
+<table width="342" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="311"><span class="logo_description"><span class="thankyou">Thank you for downloading our Template! Please visit our Shop for further Templates, Graphics and addional Materials. <a href="http://shop.hilliger-media.de" target="_blank">shop.hilliger-media.de</a></span></span></td>
+  </tr>
+</table>
+<br />
+<p><img src="../templates/schoolnerdfree/template_thumbnail.png" alt="preview" width="200" height="150" border="1"></p>
+<div style="clear:both;"></div>
+<table width="342" border="0" cellpadding="0" cellspacing="2">
+  <tr>
+    <td width="25"><img src="../templates/schoolnerdfree/images/info/picture_add.png" width="16" height="16" alt="Download Logo" /></td>
+    <td width="311" class="bold"><span class="description_extended"><span class="download"><span class="default"><a href="http://shop.hilliger-media.de/index.php?page=shop.product_details&flypage=free_flypage.tpl&product_id=270&category_id=50&option=com_virtuemart&Itemid=1" target="_blank">Download the Logo-File</a></span></span></span></td>
+  </tr>
+</table>
+<table width="342" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="311"><span class="logo_description">Please use the Logo-File to add personal Logos or Titles to the Template. Requirements:
+    Any graphic program that supports PNG and JPG images format.</span></td>
+  </tr>
+</table>
+
+<h4 class="description_extended"><span class="default">The extended version is available in our shop with<br />
+the following additional features:</span></h4>
+<table border="0" cellpadding="0" cellspacing="2">
+  <tr>
+    <td width="195" height="30"><span class="default">FEAUTURE</span></td>
+    <td width="70"><span class="default">FREE</span></td>
+    <td width="70"><span class="default">EXTENDED</span></td>
+  </tr>
+  <tr>
+    <td><span class="default">TopMenu</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" alt="ok" width="12" height="12" class="icons" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">LeftModule</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">RightModule</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-cross.png" width="12" height="12" alt="not_included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">user1Module</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-cross.png" width="12" height="12" alt="not_included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">user2Module</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-cross.png" width="12" height="12" alt="not_included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">No graphical copyrights</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-cross.png" width="12" height="12" alt="not_included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">Disable text copyrights</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-cross.png" width="12" height="12" alt="not_included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">Disable shop banner</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-cross.png" width="12" height="12" alt="not_included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">TopMenu supports SubItems</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerd/images/info/12-em-cross.png" width="12" height="12" alt="not_included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerd/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">Commercial use</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-cross.png" width="12" height="12" alt="not_included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+  <tr>
+    <td><span class="default">10 addional Pictures</span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-cross.png" width="12" height="12" alt="not_included" /></span></td>
+    <td width="70"><span class="default"><img src="../templates/schoolnerdfree/images/info/12-em-check.png" width="12" height="12" alt="included" /></span></td>
+  </tr>
+</table>
+<br>
+<table width="342" border="0" cellpadding="0" cellspacing="2">
+  <tr>
+    <td width="25"><img src="../templates/schoolnerdfree/images/info/shopping-cart-blue.gif" width="14" height="14" alt="shopping" /></td>
+    <td width="311" class="bold"><span class="description_extended"><span class="download"><a href="http://shop.hilliger-media.de/index.php?page=shop.product_details&flypage=hilliger_flypage.tpl&product_id=271&category_id=1&option=com_virtuemart&Itemid=1" target="_blank">Buy the Extended &quot;SchoolNerd&quot; Template</a></span></span></td>
+  </tr>
+</table>
+<br />
+<p><span class="default">Designed by <a href="http://shop.hilliger-media.de" target="_blank">Hilliger Media</a> (Copyright &copy; 2011)</span><br />
+</p>
+
+
+	]]>
+	</description>
+
+  <files>
+    <filename>css/template.css</filename>
+	<filename>css/content_200_200.css</filename>
+	<filename>css/content_240_240.css</filename>
+	<filename>css/content_id01.css</filename>
+    <filename>css/content_id02.css</filename>
+	<filename>css/content_id03.css</filename>
+	<filename>css/content_id04.css</filename>
+	<filename>css/left_200_off.css</filename>
+	<filename>css/left_200_on.css</filename>
+	<filename>css/left_240_off.css</filename>
+	<filename>css/left_240_on.css</filename>
+	<filename>css/user3_left.css</filename>
+	<filename>css/user3_right.css</filename>
+	<filename>css/menu_border.css</filename>
+	<filename>css/menu_icon.css</filename>
+	<filename>css/menu_simple.css</filename>
+    <filename>html/modules.php</filename>
+    <filename>images/logo.png</filename>
+	<filename>images/background.jpg</filename>
+	<filename>images/bottom.png</filename>
+    <filename>images/breadcrumb.png</filename>
+	<filename>images/content_back.png</filename>
+	<filename>images/leading_back.png</filename>
+	<filename>images/icon_category.gif</filename>
+    <filename>images/icon_date_add.gif</filename>
+	<filename>images/icon_date_edit.gif</filename>
+	<filename>images/icon_hits.png</filename>
+	<filename>images/icon_login.jpg</filename>
+	<filename>images/icon_password.jpg</filename>
+	<filename>images/icon_user.gif</filename>
+	<filename>images/menu.png</filename>
+	<filename>images/menu_hover.png</filename>
+	<filename>images/menu_icon.png</filename>
+	<filename>images/menu_icon_hover.png</filename>
+	<filename>images/mod_down.png</filename>
+	<filename>images/mod_down_240.png</filename>
+	<filename>images/mod_middle.png</filename>
+    <filename>images/mod_middle_240.png</filename>
+    <filename>images/mod_top.png</filename>
+	<filename>images/mod_top_240.png</filename>
+	<filename>images/mod_user3.png</filename>	
+    <filename>images/site.png</filename>
+    <filename>images/system/rating_star.png</filename>
+    <filename>images/system/rating_star_blank.png</filename>	
+    <filename>images/info/12-em-check.png</filename>
+	<filename>images/info/12-em-cross.png</filename>
+	<filename>images/info/shopping-cart-blue.gif</filename>
+	<filename>images/info/picture_add.png</filename>	
+    <filename>index.php</filename>
+    <filename>templateDetails.xml</filename>
+    <filename>template_thumbnail.png</filename>
+	<filename>template_preview.png</filename>
+    <filename>favicon.ico</filename>
+
+  </files>
+
+  <positions>
+    <position>position-1</position>
+	<position>position-7</position>
+	<position>position-5</position>
+    <position>breadcrumbs</position>
+    <position>articleslatestload</position>
+    <position>articlespopularload</position>
+	<position>banner</position>
+	<position>footerload</position>
+  </positions>
+
+  <config>
+    <fields name="params">
+	  <fieldset name="advanced">
+		
+    <field name="contentstyle" type="list" default="content_id04" label="Content Style" description="Controls the Content-Layout">
+      <option value="content_id01">off</option>
+      <option value="content_id02">Show Icons</option>
+	  <option value="content_id03">Show Background</option>
+	  <option value="content_id04">Show Icons and Background</option>
+    </field>
+	
+    <field name="topstyle" type="list" default="user3_left" label="Top Menu align" description="Please select the Top Menu align. Align the Menu to left or right">
+      <option value="user3_left">left</option>
+      <option value="user3_right">right</option>
+    </field>
+	
+	<field name="menustyle" type="radio" default="menu_border" label="Menu Style" description="Please select the Menustyle">
+        <option value="menu_icon">Icons</option>
+        <option value="menu_border">Border</option>
+		<option value="menu_simple">Simple</option>
+    </field>
+	
+	<field type="spacer" default=" "  />
+	
+    <field name="leftmodules" type="radio" default="on" label="Left Module-Graphics" description="Show/hide the Module Graphics">
+	  <option value="off">hide</option>
+      <option value="on">show</option>
+    </field>
+
+    <field type="spacer" default=" "  />
+
+	<field name="leftwidth" type="radio" default="left_200" label="Left Module width" description="Width Modules left">
+	  <option value="left_200">200px</option>
+      <option value="left_240">240px</option>
+    </field>
+	
+    <field type="spacer" default=" "  />
+	
+	<field name="showTitle" type="radio" default="0" label="Show Title" description="Show/Hide Title">
+      <option value="0">off</option>
+      <option value="1">on</option>
+    </field>
+	
+	  </fieldset>
+    </fields>
+  </config>
+</install>

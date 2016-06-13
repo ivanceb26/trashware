@@ -1,0 +1,3 @@
+#topmenu li{list-style-type:none; float:left; height:30px; text-align:left; line-height:25px;}
+#topmenu li a{border-right:2px solid #000; padding-left:10px; padding-right:10px}
+#topmenu div.moduletable{padding-left:10px}

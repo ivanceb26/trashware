@@ -1,0 +1,11 @@
+/* [Menus] */
+#leftcolumn div.module_menu a, #rightcolumn div.module_menu a, #user1column div.module_menu a, #user2column div.module_menu a{padding-left: 18px; margin-top:6px; background-image: url(../images/menu_icon.png); background-repeat:no-repeat}
+#leftcolumn div.module_menu a:hover, #rightcolumn div.module_menu a:hover, #user1column div.module_menu a:hover, #user2column div.module_menu a:hover{padding-left: 18px; background-image: url(../images/menu_icon_hover.png); background-position:left; background-repeat:no-repeat}
+
+/* [Menus] */
+#leftcolumn div.module_menu ul li a, #rightcolumn div.module_menu ul li a, #user1column div.module_menu ul li a, #user2column div.module_menu ul li a{font-size: 11px;  margin-top:3px}
+#leftcolumn div.module_menu ul li a:hover, #rightcolumn div.module_menu ul li a:hover, #user1column div.module_menu ul li a:hover, #user2column div.module_menu ul li a:hover{}
+
+/* [SubMenus] */
+#leftcolumn div.module_menu ul ul li a, #rightcolumn div.module_menu ul ul li a, #user1column div.module_menu ul ul li a, #user2column div.module_menu ul ul li a{margin-left:5px; font-size: 11px;  margin-top:3px}
+#leftcolumn div.module_menu ul ul li a:hover, #rightcolumn div.module_menu ul ul li a:hover, #user1column div.module_menu ul ul li a:hover, #user2column div.module_menu ul ul li a:hover{}

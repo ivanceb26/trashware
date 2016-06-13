@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<install version="1.5" type="template">
+  <name>SchoolFree</name>
+  <version>1.0.1</version>
+  <creationDate>2010-07-14</creationDate>
+  <author>Alexander Hilliger</author>
+  <authorEmail>alexander@hilliger-media.de</authorEmail>
+  <authorUrl>http://www.hilliger-media.de</authorUrl>
+  <copyright>Copyright 2010 by Hilliger Media</copyright>
+  <license>GNU/GPL</license>
+  <description>Joomla 1.5 Template created by Hilliger Media.</description>
+
+  <files>
+
+    <filename>css/template.css</filename>
+
+	<filename>css/content_id01.css</filename>
+	<filename>css/content_id02.css</filename>
+
+	<filename>css/user3_left.css</filename>
+	<filename>css/user3_right.css</filename>
+	
+	<filename>css/menu_icon.css</filename>
+	<filename>css/menu_border.css</filename>
+	<filename>css/menu_simple.css</filename>
+	
+    <filename>html/com_newsfeeds/index.html</filename>
+    <filename>html/com_newsfeeds/category/default.php</filename>
+    <filename>html/com_newsfeeds/category/default_items.php</filename>
+    <filename>html/com_newsfeeds/category/index.html</filename>
+    <filename>html/com_newsfeeds/categories/index.html</filename>
+    <filename>html/com_newsfeeds/categories/default.php</filename>
+    <filename>html/modules.php</filename>
+    <filename>html/pagination.php</filename>
+    <filename>html/mod_newsflash/index.html</filename>
+    <filename>html/mod_newsflash/_item.php</filename>
+    <filename>html/mod_newsflash/default.php</filename>
+    <filename>html/mod_newsflash/horiz.php</filename>
+    <filename>html/mod_newsflash/vert.php</filename>
+
+    <filename>images/site.jpg</filename>
+	 <filename>images/background.jpg</filename>
+    <filename>images/breadcrumb.jpg</filename>
+    <filename>images/logo.jpg</filename>
+
+    <filename>images/bottom.jpg</filename>
+	
+	<filename>css/left_id00.css</filename>
+
+    <filename>css/left_id01.css</filename>
+    <filename>images/mod_id01_left_down.jpg</filename>
+    <filename>images/mod_id01_left_middle.jpg</filename>
+    <filename>images/mod_id01_left_top.jpg</filename>
+	<filename>images/mod_user3.jpg</filename>
+    <filename>images/arrow_id01.png</filename>
+	<filename>images/arrow_id01.gif</filename>
+	
+	<filename>images/content.jpg</filename>
+	<filename>images/sectiontableheader.jpg</filename>
+	<filename>images/sectiontableentry1.jpg</filename>
+	<filename>images/sectiontableentry2.jpg</filename>
+	<filename>images/icon_login.jpg</filename>
+	<filename>images/icon_password.jpg</filename>
+	<filename>images/arrow_hover.png</filename>
+	<filename>images/arrow_hover.gif</filename>
+	
+    <filename>index.php</filename>
+    <filename>templateDetails.xml</filename>
+    <filename>template_thumbnail.png</filename>
+
+    <filename>params.ini</filename>
+
+  </files>
+
+  <positions>
+
+    <position>left</position>
+    <position>right</position>
+    <position>top</position>
+    <position>breadcrumb</position>
+    <position>user1</position>
+    <position>user2</position>
+    <position>user3</position>
+    <position>user4</position>
+    <position>debug</position>
+    <position>syndicate</position>
+    <position>banner</position>
+    <position>footer</position>
+
+  </positions>
+
+  <params>
+  	
+    <param name="contentstyle" type="list" default="content_id02" label="Content Boxes" description="Show/hide the Box Layout in Content.">
+      <option value="content_id01">off</option>
+      <option value="content_id02">on</option>
+    </param>
+	
+    <param name="topstyle" type="list" default="user3_left" label="Top Menu align" description="Please select the Top Menu align. Align the Menu to left or right.">
+      <option value="user3_left">left</option>
+      <option value="user3_right">right</option>
+    </param>
+	
+	<param name="menustyle" type="radio" default="1" label="Menu Style" description="Please select the Menustyle.">
+        <option value="menu_icon">Icons</option>
+        <option value="menu_border">Border</option>
+		<option value="menu_simple">Simple</option>
+    </param>
+	
+	<param type="spacer" default=" "  />
+    <param name="leftcolor" type="list" default="left_id01" label="Left Modules" description="Show/hide the Module Graphics.">
+	  <option value="left_id00">hide</option>
+      <option value="left_id01">show</option>
+    </param>
+
+    <param type="spacer" default=" "  />
+	
+	<param name="shopAdvertising" type="radio" default="1" label="Shop Advertising" description="Show/hide Shop Advertising Banner at the bottom of the Site.">
+        <option value="0">hide</option>
+        <option value="1">show</option>
+    </param>
+	
+	<param name="shopBanner" type="list" default="templateshop0001.gif" label="Banner Variation" description="Please select the Advertising Banner Variation.">
+        <option value="templateshop0001.gif">Style 01</option>
+        <option value="templateshop0002.gif">Style 02</option>
+		<option value="templateshop0003.gif">Style 03</option>
+		<option value="templateshop0004.gif">Style 04</option>
+		<option value="templateshop0005.gif">Style 05</option>
+		<option value="templateshop0006.gif">Style 06</option>
+    </param>
+	
+  </params>
+
+</install>

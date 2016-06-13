@@ -1,0 +1,11 @@
+/* [Menus] */
+#leftcolumn div.module_menu a, #rightcolumn div.module_menu a, #user1column div.module_menu a, #user2column div.module_menu a{background-image:url(../images/menu.png); background-repeat:repeat-x; padding-left:15px; margin-top:3px; margin-bottom:3px; height:25px; line-height:25px}
+#leftcolumn div.module_menu a:hover, #rightcolumn div.module_menu a:hover, #user1column div.module_menu a:hover, #user2column div.module_menu a:hover{border-color:#812906; border-width: 4px; background-image:url(../images/menu_hover.png); background-repeat:repeat-x}
+
+/* [Menus] */
+#leftcolumn div.module_menu ul li a, #rightcolumn div.module_menu ul li a, #user1column div.module_menu ul li a, #user2column div.module_menu ul li a{color:#000; font-size: 11px;  margin-top:3px}
+#leftcolumn div.module_menu ul li a:hover, #rightcolumn div.module_menu ul li a:hover, #user1column div.module_menu ul li a:hover, #user2column div.module_menu ul li a:hover{color:#333}
+
+/* [SubMenus] */
+#leftcolumn div.module_menu ul ul li a, #rightcolumn div.module_menu ul ul li a, #user1column div.module_menu ul ul li a, #user2column div.module_menu ul ul li a{color:#000; margin-left:5px; font-size: 11px;  margin-top:3px}
+#leftcolumn div.module_menu ul ul li a:hover, #rightcolumn div.module_menu ul ul li a:hover, #user1column div.module_menu ul ul li a:hover, #user2column div.module_menu ul ul li a:hover{color:#333}

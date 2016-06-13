@@ -1,0 +1,9 @@
+/* [message] [component] */
+td.contentheading{font-size: 12px; color: #000000; font-weight:bold;}
+
+a.readon{font-size: small; font-variant: small-caps; padding: 5px; line-height: 30px; }
+a.readon:hover{text-decoration: underline;}
+
+.createdate {font-size: 10px; color: #000000;}
+.modifydate {font-size: 10px; color: #000000;}
+.contentpaneopen{border:1px solid #999999;  background-image: url(../images/content.jpg); background-repeat: repeat; padding:2px;}

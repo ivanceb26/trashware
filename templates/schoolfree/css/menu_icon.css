@@ -1,0 +1,8 @@
+/* [Menus] */
+#leftcolumn div.module_menu a, #rightcolumn div.module_menu a, #user1column div.module_menu a, #user2column div.module_menu a{text-decoration:underline; padding-left: 18px; margin-top:6px; background-image: url(../images/arrow_id01.png) !important; background-image: url(../images/arrow_id01.gif); background-repeat:no-repeat;}
+#leftcolumn div.module_menu a:hover, #rightcolumn div.module_menu a:hover, #user1column div.module_menu a:hover, #user2column div.module_menu a:hover{padding-left: 18px; background-image: url(../images/arrow_hover.png) !important; background-image: url(../images/arrow_hover.gif); background-position:left; background-repeat:no-repeat;}
+
+/* [SubMenus] */
+#leftcolumn div.module_menu ul ul li{}
+#leftcolumn div.module_menu ul ul li a{margin-left:15px; font-size: 11px;  margin-top:3px;}
+#leftcolumn div.module_menu ul ul li a:hover{margin-left:15px;}
